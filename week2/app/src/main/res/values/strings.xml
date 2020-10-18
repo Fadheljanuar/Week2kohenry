@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">week2</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="fullname">Full Name</string>
+    <string name="nim">NIM</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="age">Age</string>
+    <string name="address">Address</string>
+    <string name="expertise">Expertise</string>
+    <string name="fieldCoureSubject">Subject</string>
+    <string name="halamanutama">Halaman Utama</string>
+    <string name="Register">Register</string>
+    <string name="LoginStudent">Login Student</string>
+    <string name="addlecturer">Add Lecturer</string>
+    <string name="addcourses">Add Courses</string>
+    <string name="starter">Starter</string>
+    <string name="LecturerData">Lecturer Data</string>
+    <string name="LecturerMenu">"Lecturer Menu "</string>
+</resources>
